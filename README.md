@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ki (@KiMau013)!
+- 👋 Hi, I’m Ki! (@KiMau013)
 - 👀 I’m interested in learning, technology, combinatorics, game theory and design.
 - ✨ I’m currently studying more Python/Java for interviews.
 - 🌱 I'm interested in learning more JS/Node/React.
