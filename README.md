@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Ki! (@KiMau013)
+- 👋 Hi, I’m Ki! (Pronounced "Key")
 - 👀 I’m interested in technology, education, game theory and design.
-- ✨ I’m currently working in Python and Java.
-- 🌱 I'm interested in learning more JS/Node/React.
+- ✨ I’m currently working in Ruby, Ruby on Rails, React, and Redux.
+- ➕ I also have experience working in Python/Django and Java/Spring.
+- 🌱 I'm interested in learning more JS/React/Go.
 - 📫 How to reach me: KiMauCS@gmail.com.
 
 <!---
